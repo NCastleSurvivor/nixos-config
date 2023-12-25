@@ -49,8 +49,8 @@
           [ 
             impermanence.nixosModules.impermanence
           ];
-        # zvx = mkSystem "zvx" "x86_64-linux" inputs.nixpkgs
-        #   [ impermanence.nixosModules.impermanence ];
+        Ethereal = mkSystem "Ethereal" "x86_64-linux" inputs.nixpkgs
+          [ impermanence.nixosModules.impermanence ];
       };
 
 	  });
@@ -83,7 +83,7 @@ inputs = {
     substituters =  [
       # replace official cache with a mirror located in China
       "https://mirrors.ustc.edu.cn/nix-channels/store"
-      "https://mirrors.sjtu.edu.cn/nix-channels/store"
+      # "https://mirrors.sjtu.edu.cn/nix-channels/store"
       # "https://mirrors.tuna.tsinghua.edu.cn/nix-channels/store"
       "https://cache.nixos.org"
       "https://hyprland.cachix.org"

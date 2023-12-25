@@ -7,8 +7,8 @@
     # nixos基础设置与grub引导配置
     ../../../nixos/system
     # 引入plasma桌面配置
-    ./plasma.nix
+    ./gnome.nix
   ];
   # 配置plasma桌面环境下面的hostname,供安装时选择
-  networking.hostName = "zero"; # Define your hostname.
+  networking.hostName = "Ethereal"; # Define your hostname.
 }

@@ -25,6 +25,7 @@
    zsh
    alacritty
    v2raya
+   openssl
   	];
   
 }
