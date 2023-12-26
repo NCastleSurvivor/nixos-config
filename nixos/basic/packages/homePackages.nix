@@ -8,14 +8,10 @@
 	tree
 	which
 	htop
-	vscode
 #  neofetch
 	fastfetch
     # environment settings
-	jdk8
-	jetbrains.idea-ultimate
   onlyoffice-bin
-
   ];
 }
 

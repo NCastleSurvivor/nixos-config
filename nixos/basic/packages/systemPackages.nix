@@ -21,7 +21,6 @@
    ntfs3g
    pciutils
    papirus-icon-theme
-   dbeaver
    zsh
    alacritty
    v2raya

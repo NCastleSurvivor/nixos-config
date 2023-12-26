@@ -9,5 +9,6 @@
     # 系统用户配置
     ./users.nix
     ./packages/systemPackages.nix
+    ./packages/projectPackages.nix
   ];
 }
