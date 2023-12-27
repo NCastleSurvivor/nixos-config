@@ -12,6 +12,7 @@
 	fastfetch
     # environment settings
   onlyoffice-bin
+	telegram-desktop
   ];
 }
 

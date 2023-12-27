@@ -5,7 +5,8 @@
     jdk8
     #maven
     vscode
-    postman
+    # postman
+    insomnia
     nodejs_18
 	  jetbrains.idea-ultimate
   ];
