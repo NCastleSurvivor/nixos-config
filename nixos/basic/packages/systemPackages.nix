@@ -23,7 +23,6 @@
    papirus-icon-theme
    zsh
    alacritty
-   v2raya
    openssl
   	];
   
