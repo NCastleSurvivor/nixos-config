@@ -1,7 +1,8 @@
 { config, pkgs, ... }:
 {
 	imports = [
-		../../../nixos/basic/packages/homePackages.nix		
+		../../../nixos/basic/packages/homePackages.nix	
+		../../../config/terminal	
 	];
 
 	programs.home-manager.enable = true;
