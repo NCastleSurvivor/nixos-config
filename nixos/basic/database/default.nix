@@ -1,6 +1,7 @@
 {
   imports = [
     ./mysql.nix
-    ./nginx.nix
+    # ./nginx.nix
+    ./redis.nix
   ];
 }

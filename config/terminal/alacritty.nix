@@ -105,13 +105,15 @@
 
       ## Terminal window settings
       window:
+        #  title: NixOS
+
         dimensions:
-          columns: 55
-          lines: 18
+          columns: 110
+          lines: 36
 
         padding:
-          x: 8
-          y: 2
+          x: 4
+          y: 1
 
         decorations: full
         startup_mode: Windowed
@@ -122,7 +124,7 @@
         multiplier: 3
 
       ## Background opacity
-        opacity: 0.5
+        opacity: 0.8
 
       ## Cursor
       cursor:
