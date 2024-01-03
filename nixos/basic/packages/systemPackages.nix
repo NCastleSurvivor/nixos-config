@@ -23,6 +23,7 @@
    papirus-icon-theme
    zsh
    alacritty
+   clash-verge
    openssl
   	];
   
