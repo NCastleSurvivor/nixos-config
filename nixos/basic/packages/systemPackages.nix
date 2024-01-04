@@ -25,6 +25,7 @@
    alacritty
    clash-verge
    openssl
+   glxinfo
   	];
   
 }
